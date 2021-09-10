@@ -1,0 +1,7 @@
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Clases\Clase 9\Clase9\Clase9\obj\Debug\Clase9.csproj.AssemblyReference.cache
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Clases\Clase 9\Clase9\Clase9\obj\Debug\Clase9.csproj.CoreCompileInputs.cache
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Clases\Clase 9\Clase9\Clase9\bin\Debug\Clase9.exe.config
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Clases\Clase 9\Clase9\Clase9\bin\Debug\Clase9.exe
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Clases\Clase 9\Clase9\Clase9\bin\Debug\Clase9.pdb
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Clases\Clase 9\Clase9\Clase9\obj\Debug\Clase9.exe
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Clases\Clase 9\Clase9\Clase9\obj\Debug\Clase9.pdb
